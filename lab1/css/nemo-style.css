@@ -1,0 +1,8 @@
+.header {
+	background: url("../images/nemo-image.jpg") no-repeat 50% 50%;
+	background-size: cover;
+}
+
+table.floor-table td:first-child {
+	text-align: right;
+}
